@@ -2,7 +2,7 @@
 
 Street-video dispatch for collection boxes. Indexed captions decide who **used** a mailbox versus who **walked past**. Drop-offs stay on the loop; walk-bys stay off it.
 
-Built on the VAST Video Search and Summarization (VSS) archive during the Builders Challenge. Live demo (team-46): [http://video-lab-team-46.cosmos.vastdata.com/app](http://video-lab-team-46.cosmos.vastdata.com/app)
+Built on the VAST Video Search and Summarization (VSS) archive during the Builders Challenge. Live demo (team-46): https://team-46-app.thecosmoslabs.com/app/
 
 ## What it does
 
