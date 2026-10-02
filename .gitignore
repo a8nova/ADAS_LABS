@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+.env.*
+*.config
+kubeconfig*
+*-k8s.yaml
+*-secret.yaml
+.DS_Store
